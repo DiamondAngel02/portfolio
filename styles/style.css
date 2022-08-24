@@ -2,6 +2,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'American Typewriter', sans-serif;
+                                                
 
 }
 section {
@@ -14,9 +16,10 @@ section {
 }
 
 h4 {
-    font-size: 200px;
+    font-family: 'Mythical Prince', sans-serif;                                          
+    font-size: 250px;
     text-align: center;
-    padding-top: 20vh;
+    padding-top: 18vh;
     color: white;
 }
 
@@ -38,6 +41,29 @@ h4 {
     padding-left: 30px;
     padding-right: 30px;
     margin: auto;
+}
+
+.wrapper-1 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto;
+}
+
+.social-media-1, .social-media-2, .social-media-3, .social-media-4 {
+    height: 62px;
+    fill: #fff;
+    padding-left: 13px;
+    padding-right: 13px;
+    display: inline;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto;
+}
+
+.social-media-1 {
+    padding-left: 29px;
 }
 
 body {
@@ -156,8 +182,8 @@ h1.header-2::after {
 .about-box {
     display: flex;
     margin-left: 300px;
-    margin-top: 50px;
-    margin-bottom: 70px;
+    margin-top: 70px;
+    margin-bottom: 100px;
 }
 
 a.about {
@@ -165,6 +191,7 @@ a.about {
     display: inline;
     text-decoration: none;
     color: black;
+    margin-top: 70px;
 }
 
 .arrow {
