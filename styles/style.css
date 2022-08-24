@@ -41,6 +41,7 @@ h4 {
     padding-left: 30px;
     padding-right: 30px;
     margin: auto;
+    
 }
 
 .wrapper-1 {
@@ -145,7 +146,7 @@ h1.header-2::after {
     animation: changeLetter 8s linear infinite alternate;
     color: white; 
     background: #121419;
-    width: 300px;
+    width: 350px;
     margin: auto;
     height: 40px;
     display: inline-block;

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="62" height="164.583" viewBox="0 0 62 164.583">
-  <g id="Group_6" data-name="Group 6" transform="translate(-929 -804)">
-    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(929 804)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="62" height="97" rx="31" stroke="none"/>
-      <rect x="0.5" y="0.5" width="61" height="96" rx="30.5" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="41.365" height="124.333" viewBox="0 0 41.365 124.333">
+  <g id="Group_6" data-name="Group 6" transform="translate(-929.409 -803.512)">
+    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(929.409 803.512)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="41.365" height="66" rx="20.683" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40.365" height="65" rx="20.183" fill="none"/>
     </g>
-    <path id="Path_12" data-name="Path 12" d="M2801.765-516.461l10.367,8.374,8.64-8.374" transform="translate(-1851.269 1438)" fill="none" stroke="#fff" stroke-width="7"/>
-    <path id="Path_13" data-name="Path 13" d="M2801.765-516.461l10.367,8.374,8.64-8.374" transform="translate(-1851.269 1472)" fill="none" stroke="#fff" stroke-width="7"/>
-    <path id="Path_14" data-name="Path 14" d="M2801.765-516.461l10.367,8.374,8.64-8.374" transform="translate(-1851.269 1455)" fill="none" stroke="#fff" stroke-width="7"/>
-    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="7.5" cy="8.5" rx="7.5" ry="8.5" transform="translate(953 826)" fill="#b7b7b7"/>
+    <path id="Path_12" data-name="Path 12" d="M2801.765-516.461l12.451,8.374,10.378-8.374" transform="translate(-1863.088 1398.165)" fill="none" stroke="#fff" stroke-width="4"/>
+    <path id="Path_13" data-name="Path 13" d="M2801.765-516.461l12.451,8.374,10.378-8.374" transform="translate(-1863.088 1433.449)" fill="none" stroke="#fff" stroke-width="4"/>
+    <path id="Path_14" data-name="Path 14" d="M2801.765-516.461l12.451,8.374,10.378-8.374" transform="translate(-1863.088 1415.807)" fill="none" stroke="#fff" stroke-width="4"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="5.5" cy="6" rx="5.5" ry="6" transform="translate(945.154 821.12)" fill="#b7b7b7"/>
   </g>
 </svg>
