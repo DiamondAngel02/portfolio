@@ -125,8 +125,10 @@ nav ul li a {
     text-decoration: none;
     font-size: 17px;
     margin: 0px 30px;
+}
 
-
+.burger {
+    display: none;
 }
 
 .header .header-2 .header-3 {
@@ -308,6 +310,13 @@ h3.projects {
     color: #fff;
 }
 
+.view {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 footer {
     width: 100%;
     color: #fff;
@@ -320,6 +329,11 @@ footer {
 }
 
 @media (max-width: 500px) {
+    
+    section {
+        background-size: auto auto;
+    }
+
     h4 {
         font-size: 70px;
     }
@@ -339,4 +353,12 @@ footer {
         font-size: 25px;
         margin-bottom: 100px;
     }
+    .social-media-1, .social-media-2, .social-media-3, .social-media-4 {
+        height: 50px;
+        padding: auto auto;
+    }
+    .nav {
+        display: none;
+    }
+    
 }
