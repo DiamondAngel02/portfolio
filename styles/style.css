@@ -150,6 +150,7 @@ h3.projects {
     display: flex;
     justify-content: space-between;
     margin: auto;
+    margin-bottom: 50px;
 }
 
 .container-2 .card {
@@ -235,4 +236,15 @@ h3.projects {
 .container-2 .card .face.face2 .content a:hover {
     background: #333;
     color: #fff;
+}
+
+footer {
+    width: 100%;
+    color: #fff;
+    background-color: #E6D8CE;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
 }
