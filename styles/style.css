@@ -88,6 +88,7 @@ body {
     color: #fff;
     background-color: #E6D8CE;
     height: 70px;
+    
 }
 
 .navbar .container {
@@ -97,14 +98,14 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 70px;
-    float: right;
+   
 
 
 }
 
 .logo {
     margin-top: 25px;
-    padding-right: 600px;
+    margin-right: 1em;
     cursor: pointer;
     color: black;
 
@@ -113,6 +114,7 @@ body {
 nav {
     display: flex;
     margin-right: 30px;
+    padding-left: 550px;
 }
 
 nav ul {
@@ -158,7 +160,7 @@ nav ul li a {
 
 
 .container {
-    display: inline-block;
+    display: flex;
 }
 
 h1.header-2::after {
