@@ -132,7 +132,6 @@ nav ul li a {
 
 .menu {
     display: none;
-    margin-right: 13px;
     width: 30px; 
     height: 22px;
     cursor: pointer;
@@ -157,7 +156,7 @@ nav ul li a {
 
 
 .container {
-    display: inline-block;
+    display: flex;
 }
 
 h1.header-2::after {
@@ -387,6 +386,12 @@ p.copyright {
         padding: auto auto;
     }
 
+    .container {
+        justify-content: normal;
+        display: block;
+    
+    }
+
     .wrapper {
         margin-left: 5px;
     }
@@ -422,17 +427,20 @@ p.copyright {
     }
 
     .menu {
+        display: block;
         position: flex;
         float: left;
+        margin: 0;
         width: 30px; 
         height: 22px;
         cursor: pointer;
-        z-index: 100;
+        z-index: 999;
     }
 
     
     .close {
-        z-index: 99;
+        display: block;
+        z-index: 999;
         float: left;
         margin: 2em;
         width: 2.5em;
